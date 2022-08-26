@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    box-sizing: border-box;
+    text-align: center;
+    width: 400px;
+    height: 450px;
+    border: 2px solid grey;
+    margin: auto;
+    border-radius: 8px;
+}
+  
+button{
+  
+    width:85%;
+}
+
+input{
+    width: 85%;
+    height: 20px;
+    border-radius: 3px;
+    padding: 3px;
+    margin-top: 5px;
+}
+
+
+.bottom{
+    margin-top: 25px;
+}
+
+
+.Top{
+    margin-top: 15px;
+}
+
+#send{
+    margin-top: 10px;
+    background-color: blueviolet;
+}
+
+
+    
+
+
+#results{
+    margin-top: 20px;
+    
+}
